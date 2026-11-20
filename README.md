@@ -1,4 +1,4 @@
-# 👋 你好，我是 Mechat / Hi, I'm Mechat https://mechatsvip.github.io/
+# 👋 你好，我是 Mechat / Hi, I'm Mechat
 
 <div align="right">
 
